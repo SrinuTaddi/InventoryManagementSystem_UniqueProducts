@@ -1,0 +1,696 @@
+{
+    "ponduru": [
+        {
+            "shop_id": 1,
+            "shop_name": "Raju Khadi Works",
+            "shop_address": "Ponduru",
+            "shop_owner": "Raju",
+            "shop_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 1500",
+                    "item_size": "Small",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Medium",
+                    "item_quantity": 12
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 4500",
+                    "item_size": "Large",
+                    "item_quantity": 8
+                },
+                {
+                    "item_id": 4,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 5,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 13
+                },
+                {
+                    "item_id": 6,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 7,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 8,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 18
+                },
+                {
+                    "item_id": 9,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Large",
+                    "item_quantity": 9
+                },
+                {
+                    "item_id": 10,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 800",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 11,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 1600",
+                    "item_size": "Medium",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 12,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 2400",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 13,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 1200",
+                    "item_size": "Small",
+                    "item_quantity": 14
+                },
+                {
+                    "item_id": 14,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 2400",
+                    "item_size": "Medium",
+                    "item_quantity": 16
+                },
+                {
+                    "item_id": 15,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 3600",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 25,
+                    "item_name": "hsdfba",
+                    "item_price": "525",
+                    "item_size": "small",
+                    "item_quantity": 5
+                }
+            ]
+        },
+        {
+            "shop_id": 2,
+            "shop_name": "Surya Khadi Works",
+            "shop_address": "Ponduru",
+            "shop_owner": "Surya",
+            "shop_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 1500",
+                    "item_size": "Small",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Medium",
+                    "item_quantity": 12
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 4500",
+                    "item_size": "Large",
+                    "item_quantity": 8
+                },
+                {
+                    "item_id": 4,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 5,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 13
+                },
+                {
+                    "item_id": 6,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 7,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 8,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 18
+                },
+                {
+                    "item_id": 9,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Large",
+                    "item_quantity": 9
+                },
+                {
+                    "item_id": 10,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 800",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 11,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 1600",
+                    "item_size": "Medium",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 12,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 2400",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 13,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 1200",
+                    "item_size": "Small",
+                    "item_quantity": 14
+                },
+                {
+                    "item_id": 14,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 2400",
+                    "item_size": "Medium",
+                    "item_quantity": 16
+                },
+                {
+                    "item_id": 15,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 3600",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 16,
+                    "item_name": "Handloom Tomato Red Cotton Saree",
+                    "item_price": "RS. 200",
+                    "item_size": "Small",
+                    "item_quantity": 12
+                },
+                {
+                    "item_id": 17,
+                    "item_name": "Handloom Tomato Red Cotton Saree",
+                    "item_price": "RS. 400",
+                    "item_size": "Medium",
+                    "item_quantity": 13
+                },
+                {
+                    "item_id": 18,
+                    "item_name": "Handloom Tomato Red Cotton Saree",
+                    "item_price": "RS. 500",
+                    "item_size": "Large",
+                    "item_quantity": 14
+                }
+            ]
+        },
+        {
+            "shop_id": 3,
+            "shop_name": "Chiru Khadi Works",
+            "shop_address": "Ponduru",
+            "shop_owner": "Chiru",
+            "shop_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 1500",
+                    "item_size": "Small",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Medium",
+                    "item_quantity": 12
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 4500",
+                    "item_size": "Large",
+                    "item_quantity": 8
+                },
+                {
+                    "item_id": 4,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 5,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 13
+                },
+                {
+                    "item_id": 6,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 7,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 8,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 18
+                },
+                {
+                    "item_id": 9,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Large",
+                    "item_quantity": 9
+                },
+                {
+                    "item_id": 10,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 800",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 11,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 1600",
+                    "item_size": "Medium",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 12,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 2400",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 13,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 1200",
+                    "item_size": "Small",
+                    "item_quantity": 14
+                },
+                {
+                    "item_id": 14,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 2400",
+                    "item_size": "Medium",
+                    "item_quantity": 16
+                },
+                {
+                    "item_id": 15,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 3600",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                }
+            ]
+        },
+        {
+            "shop_id": 4,
+            "shop_name": "Vikram Khadi Works",
+            "shop_address": "Ponduru",
+            "shop_owner": "Vikram",
+            "shop_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 1500",
+                    "item_size": "Small",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Medium",
+                    "item_quantity": 12
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 4500",
+                    "item_size": "Large",
+                    "item_quantity": 8
+                },
+                {
+                    "item_id": 4,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 5,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 13
+                },
+                {
+                    "item_id": 6,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 7,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 8,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 18
+                },
+                {
+                    "item_id": 9,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Large",
+                    "item_quantity": 9
+                },
+                {
+                    "item_id": 11,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 1600",
+                    "item_size": "Medium",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 12,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 2400",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 13,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 1200",
+                    "item_size": "Small",
+                    "item_quantity": 14
+                },
+                {
+                    "item_id": 14,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 2400",
+                    "item_size": "Medium",
+                    "item_quantity": 16
+                },
+                {
+                    "item_id": 15,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 3600",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 18,
+                    "item_name": "Handloom Tomato Red Cotton Saree",
+                    "item_price": "RS. 500",
+                    "item_size": "Large",
+                    "item_quantity": 14
+                }
+            ]
+        },
+        {
+            "shop_id": 5,
+            "shop_name": "Bruce Khadi Works",
+            "shop_address": "Ponduru",
+            "shop_owner": "Bruce",
+            "shop_items": [
+                {
+                    "item_id": 1,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 1500",
+                    "item_size": "Small",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 2,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Medium",
+                    "item_quantity": 12
+                },
+                {
+                    "item_id": 3,
+                    "item_name": "Handloom Blue Colored Cotton Saree",
+                    "item_price": "RS. 4500",
+                    "item_size": "Large",
+                    "item_quantity": 8
+                },
+                {
+                    "item_id": 4,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 5,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 13
+                },
+                {
+                    "item_id": 6,
+                    "item_name": "Handloom Pink Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 7,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 1000",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 8,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": 18
+                },
+                {
+                    "item_id": 9,
+                    "item_name": "Handloom White Colored Cotton Saree",
+                    "item_price": "RS. 3000",
+                    "item_size": "Large",
+                    "item_quantity": 9
+                },
+                {
+                    "item_id": 10,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 800",
+                    "item_size": "Small",
+                    "item_quantity": 11
+                },
+                {
+                    "item_id": 11,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 1600",
+                    "item_size": "Medium",
+                    "item_quantity": 15
+                },
+                {
+                    "item_id": 12,
+                    "item_name": "Handloom Orange Colored Cotton Saree",
+                    "item_price": "RS. 2400",
+                    "item_size": "Large",
+                    "item_quantity": 10
+                },
+                {
+                    "item_id": 13,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 1200",
+                    "item_size": "Small",
+                    "item_quantity": 14
+                },
+                {
+                    "item_id": 14,
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "RS. 2400",
+                    "item_size": "Medium",
+                    "item_quantity": 16
+                },
+                {
+                    "item_id": "15",
+                    "item_name": "Handloom Green Colored Cotton Saree With Blouse",
+                    "item_price": "Rs. 3600",
+                    "item_size": "Large",
+                    "item_quantity": "10"
+                },
+                {
+                    "item_id": "16",
+                    "item_name": "Handloom Tomato Red Cotton Saree",
+                    "item_price": "Rs. 300",
+                    "item_size": "Small",
+                    "item_quantity": "5"
+                },
+                {
+                    "item_id": "17",
+                    "item_name": "Handloom Tomato Red Cotton Saree",
+                    "item_price": "Rs. 2000",
+                    "item_size": "Medium",
+                    "item_quantity": "10"
+                }
+            ]
+        }
+    ],
+    "admin_cred": [
+        {
+            "admin_name": "srinu",
+            "username": "admin",
+            "password": "adminpass"
+        }
+    ],
+    "vendor": [
+        {
+            "vendor_id": 1,
+            "vendor_name": "Vendor 1",
+            "username": "vendor1",
+            "password": "vendorpass1"
+        },
+        {
+            "vendor_id": 2,
+            "vendor_name": "Vendor 2",
+            "username": "vendor2",
+            "password": "vendorpass2"
+        },
+        {
+            "vendor_id": 3,
+            "vendor_name": "Vendor 3",
+            "username": "vendor3",
+            "password": "vendorpass3"
+        },
+        {
+            "vendor_id": 4,
+            "vendor_name": "Vendor 4",
+            "username": "vendor4",
+            "password": "vendorpass4"
+        }
+    ],
+    "users": [
+        {
+            "user_id": 1,
+            "username": "user1",
+            "password": "userpass1"
+        },
+        {
+            "user_id": 2,
+            "username": "user2",
+            "password": "userpass2"
+        },
+        {
+            "user_id": 3,
+            "username": "user3",
+            "password": "userpass3"
+        },
+        {
+            "user_id": 4,
+            "username": "user4",
+            "password": "userpass4"
+        },
+        {
+            "user_id": 5,
+            "username": "user5",
+            "password": "userpass5"
+        },
+        {
+            "user_id": 6,
+            "username": "user6",
+            "password": "userpass6"
+        },
+        {
+            "user_id": 7,
+            "username": "user7",
+            "password": "userpass7"
+        },
+        {
+            "user_id": 8,
+            "username": "user8",
+            "password": "userpass8"
+        },
+        {
+            "user_id": 9,
+            "username": "user9",
+            "password": "userpass9"
+        },
+        {
+            "user_id": 10,
+            "username": "user10",
+            "password": "userpass10"
+        }
+    ]
+}
